@@ -1,0 +1,10 @@
+# Downloads Folder Cleaner - Python Dependencies
+
+# Safe deletion (sends files/folders to Recycle Bin instead of permanent delete)
+send2trash==1.8.3
+
+# Rich terminal output (tables, panels, prompts, colored text)
+rich==13.9.4
+
+# All other features (pathlib, shutil, os, subprocess, collections, sys)
+# are covered by Python's standard library — no install needed.
